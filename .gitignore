@@ -43,3 +43,6 @@ out/
 
 # local secrets (ElevenLabs key etc.)
 .env*.local
+
+# brag video intermediates (frames, captures) — keep brag.mp4/jpg/plan
+brag-output/work/

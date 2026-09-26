@@ -1,0 +1,9 @@
+Nine tiny browser games about hearing, timing and being confidently wrong. A tone plays
+and you go find it again on a slider. One hit in a drum loop is late — say which. Five
+colours, one at a time, rebuilt from memory.
+
+Everything is synthesised live in the Web Audio API, nothing is a sample, and Beat Lab
+turns the same engine into a studio you can build a loop in and take it with you. The
+music in this video was made in it.
+
+delulubeats.com — free, no install, works offline.

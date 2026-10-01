@@ -70,6 +70,8 @@ In play — Downbeat and Echo:
 
 Sign in with Google to post your Daily scores to the [leaderboard](https://delulubeats.com/leaderboard/), under a name you choose. Only the Daily is ranked, and scores are rechecked on the server. The same board also ranks [Shut The Cube](https://shutthecube.com). Every game plays in full without signing in.
 
+<img src="docs/images/leaderboard.jpg" alt="The Daily leaderboard" width="520">
+
 ## On your phone
 
 The site is a progressive web app: add it to your home screen and every game and drum kit is cached, so it plays with no connection.
